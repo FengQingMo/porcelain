@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+.venv
+.vscode
+.vscode
+.env
+.env.local
+.env.development
+.env.production
+
