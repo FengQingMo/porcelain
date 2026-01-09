@@ -29,7 +29,7 @@ app.options('*', cors());
 
 // 初始化OpenAI客户端
 const openai = new OpenAI({
-  apiKey: 'sk-GgHhVId7SF',
+  apiKey: 'apikey',
   baseURL: "https://dashscope.aliyuncs.com/compatible-mode/v1"
 });
 
