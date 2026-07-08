@@ -1,0 +1,163 @@
+{
+  "ceramics": [
+    {
+      "id": 7,
+      "name": "乾隆粉彩九桃图瓶（清）",
+      "period": "清代",
+      "location": "景德镇",
+      "style": "现代陶瓷艺术",
+      "image": "/images/jiutaotu.jpg",
+      "modelPath": "/modules/jiutaotu.glb",
+      "description": "九陶图展现了中国传统陶瓷制作工艺的九个重要环节，是一件具有教育意义的艺术作品。",
+      "year": "清代",
+      "glaze": "多彩釉",
+      "technique": "现代陶瓷工艺"
+    },
+    {
+      "id": 8,
+      "name": "花木兰瓷器",
+      "period": "现代",
+      "location": "景德镇",
+      "style": "艺术瓷器",
+      "image": "/images/huamulan.jpg",
+      "modelPath": "/modules/huamulan.glb",
+      "description": "以中国传统故事人物花木兰为主题的艺术瓷器，展现了东方女性的英姿飒爽。",
+      "year": "现代",
+      "glaze": "彩釉",
+      "technique": "现代陶瓷工艺"
+    },
+    {
+      "id": 9,
+      "name": "古彩仕女图瓷瓶（清）",
+      "period": "清代风格",
+      "location": "景德镇",
+      "style": "古彩",
+      "image": "/images/gucai.png",
+      "modelPath": "/modules/gucai.glb",
+      "description": "古彩瓷器，采用传统古彩工艺，色彩绚丽，纹饰精美，展现了中国传统瓷器的独特魅力。",
+      "year": "现代仿古",
+      "glaze": "古彩釉",
+      "technique": "古彩工艺"
+    },
+    {
+      "id": 10,
+      "name": "粉彩双面百蝶薄胎碗",
+      "period": "清代风格",
+      "location": "景德镇",
+      "style": "粉彩",
+      "image": "/images/fencai.png",
+      "modelPath": "/modules/fencai.glb",
+      "description": "粉彩瓷器以其柔和的色调和精致的彩绘著称，是清代瓷器艺术的代表作品之一。",
+      "year": "现代仿古",
+      "glaze": "粉彩釉",
+      "technique": "粉彩工艺"
+    },
+    {
+      "id": 11,
+      "name": "五彩万寿无疆仕女图盘(清康熙)",
+      "period": "明清风格",
+      "location": "景德镇",
+      "style": "五彩",
+      "image": "/images/wucai.png",
+      "modelPath": "/modules/wucai.glb",
+      "description": "五彩瓷器以红、黄、绿、紫、黑五种颜色为主，色彩绚丽，是中国传统瓷器中的精品。",
+      "year": "现代仿古",
+      "glaze": "五彩釉",
+      "technique": "五彩彩绘"
+    },
+    {
+      "id": 12,
+      "name": "花卉纹香水瓶",
+      "period": "现代",
+      "location": "景德镇",
+      "style": "现代艺术",
+      "image": "/images/perfume_bottle.png",
+      "modelPath": "/modules/perfume_bottle_with_floral_ornamentation.glb",
+      "description": "现代风格的陶瓷香水瓶，融合东西方美学，花卉纹饰优雅精致。",
+      "year": "现代",
+      "glaze": "彩釉",
+      "technique": "现代工艺"
+    },
+    {
+      "id": 1,
+      "name": "青花瓷瓶",
+      "period": "明代",
+      "location": "景德镇",
+      "style": "青花",
+      "image": "/images/qinghua.png",
+      "modelPath": "/modules/porcelain_china_vase.glb",
+      "description": "典型的青花瓷器，展现了中国传统陶瓷艺术的精髓。器型端庄，纹饰精美，釉色清亮。",
+      "year": "1368-1644",
+      "glaze": "青花釉",
+      "technique": "青花彩绘"
+    },
+    {
+      "id": 2,
+      "name": "龙纹罐",
+      "period": "清代",
+      "location": "景德镇",
+      "style": "青花",
+      "image": "/images/dragon.png",
+      "modelPath": "/modules/dragon.glb",
+      "description": "精美的龙纹装饰，象征皇权与吉祥。龙纹栩栩如生，工艺精湛。",
+      "year": "1644-1911",
+      "glaze": "青花釉",
+      "technique": "青花彩绘"
+    },
+    {
+      "id": 3,
+      "name": "香薰瓶",
+      "period": "清代",
+      "location": "景德镇",
+      "style": "青花",
+      "image": "/images/perfume_bottle.png",
+      "modelPath": "/modules/perfume_bottle_with_floral_ornamentation.glb",
+      "description": "精美的花卉纹饰，展现东方美学。造型优雅，色彩艳丽。",
+      "year": "1644-1911",
+      "glaze": "青花釉",
+      "technique": "青花彩绘"
+    },
+    {
+      "id": 4,
+      "name": "茶具套装",
+      "period": "清代",
+      "location": "景德镇",
+      "style": "青瓷",
+      "image": "/images/tea_set.png",
+      "modelPath": "/modules/tea_set.glb",
+      "description": "完整的茶具套装，展现茶道文化。器型优美，釉色温润。",
+      "year": "1644-1911",
+      "glaze": "青瓷釉",
+      "technique": "青瓷工艺"
+    },
+    {
+      "id": 5,
+      "name": "陶瓷刀",
+      "period": "现代",
+      "location": "景德镇",
+      "style": "现代工艺",
+      "image": "/images/knife_dagger.png",
+      "modelPath": "/modules/knife_dagger.glb",
+      "description": "精美的陶瓷刀具，展现工艺之美。锋利耐用，造型现代。",
+      "year": "现代",
+      "glaze": "特殊工艺",
+      "technique": "现代陶瓷"
+    },
+    {
+      "id": 6,
+      "name": "香炉",
+      "period": "清代",
+      "location": "景德镇",
+      "style": "青花",
+      "image": "/images/image.png",
+      "modelPath": "/modules/vessel_for_potpourri.glb",
+      "description": "典雅的香炉，展现传统香道文化。造型端庄，纹饰精美。",
+      "year": "1644-1911",
+      "glaze": "青花釉",
+      "technique": "青花彩绘"
+    }
+
+  
+    
+  ]
+} 

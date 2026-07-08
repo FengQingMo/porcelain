@@ -1,0 +1,4 @@
+[2025-05-05T12:47:52.869Z] 服务器运行在 http://localhost:7777
+[2025-05-05T12:50:48.734Z] 收到AI对话请求
+[2025-05-05T12:50:48.735Z] 请求头: {"host":"192.168.133.251:7777","connection":"keep-alive","content-length":"411","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0","accept":"text/event-stream","content-type":"application/json","origin":"http://localhost:3000","referer":"http://localhost:3000/","accept-encoding":"gzip, deflate","accept-language":"zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"}
+[2025-05-05T12:50:48.735Z] 请求体: {"messages":[{"role":"system","content":"你是一个名叫'青瓷'的AI助手，精通中国陶瓷艺术和制作工艺。你的使命是帮助人们了解瓷器的历史、工艺和鉴赏。请用一句话向用户介绍你自己。"},{"role":"assistant","content":"你好！我是青瓷，一位专注于中国陶瓷艺术的AI助手。有什么我可以帮你的吗？"},{"role":"user","content":"你好"}]}
