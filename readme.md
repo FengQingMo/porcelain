@@ -40,9 +40,9 @@ node server.js
 
 ## 页面截图
 
-![陶瓷3d展示](images/陶瓷3d展示.png)
+![陶瓷3d展示](images/ceramic-3d-display.png)
 
-![乾隆粉彩九桃图瓶（清） 3D 模型展示图](images/乾隆粉彩九桃图瓶（清） 3D 模型展示图.png)
+![乾隆粉彩九桃图瓶（清） 3D 模型展示图](images/qianlong-vase-3d.png)
 
 ![五彩万寿无疆仕女图盘(清康熙)3D模型展示图](images/五彩万寿无疆仕女图盘(清康熙)3D模型展示图.png)
 
